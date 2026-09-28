@@ -2,4 +2,6 @@
 
 This is the core code for the paper:
 
-Zhao, Kanhao, et al. "Brain-Gut Crosstalk Shapes Early Brain Aging in Young and Mid-Life Adults: A Multicohort Cross-section Study." SSRN preprint. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6201852
+Zhao K, Vignolle G, Labus J et al.
+Brain-gut crosstalk associated with brain ageing in young and mid-life adults: a multicohort cross-sectional study
+eBioMedicine, 2026; 132. https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(26)00352-X/fulltext
